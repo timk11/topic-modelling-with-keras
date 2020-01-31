@@ -1,5 +1,5 @@
 # topic-modelling-keras
-Topic modelling with Keras, constructed as a capstone project
+**Topic modelling with Keras, constructed as a capstone project**
 
 This model was originally constructed as a capstone project for the Microsoft Professional Certificate in Artificial Intelligence on EdX. 
 
